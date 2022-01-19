@@ -33,6 +33,6 @@
 [![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Nasirdin)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/zhaparkulov_02/?hl=ru)
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0b65c3)](https://www.linkedin.com/in/191202/)
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nasirdin02)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Nasirdin1)
 [![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/id611818609)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/jnasirdin)
