@@ -32,7 +32,7 @@ body {
   --color-hover: #999;
   --color: #f0f0f0;
   --bg-color: #29303c;
-}
+  --color-important: #ffe066}
 
 body {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
@@ -43,10 +43,11 @@ body {
   background-color: var(--bg-color);
   color: var(--color);
   font-size: 16px;
+  overflow-x: hidden
 }
 
 .container {
-  width: 1200px;
+  max-width: 1240px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -56,10 +57,17 @@ ol {
   list-style-type: none;
 }
 a {
-	text-decoration: none;
+  text-decoration: none;
   color: var(--color-link);
   transition: 0.3s;
   &:hover {
-    color: var(--color-hover);
+    color: var(--color-important);
   }
+}
+
+.App {
+  display: none;
+}
+.App.active{
+  display: block;
 }

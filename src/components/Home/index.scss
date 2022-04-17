@@ -1,0 +1,34 @@
+.home {
+  height: 95vh;
+  position: relative;
+  .container{
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  &__title {
+    display: flex;
+    font-size: 42px;
+    font-weight: 700;
+    justify-content: center;
+    margin-bottom: 5px;
+    cursor: pointer;
+    span{
+      margin-left: 7px;
+      color: var(--color-important);
+    }
+  }
+  &__subtitle{
+    font-size: 22px;
+    cursor: pointer;
+    a{
+      font-weight: 700;
+      color: #fff;
+    }
+    span{
+      color: var(--color-important);
+    }
+  }
+}

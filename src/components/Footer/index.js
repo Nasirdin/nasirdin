@@ -1,7 +1,11 @@
 import "./index.scss";
 
 function Footer() {
-  return <div className="Footer">Footer</div>;
+  return (
+    <div className="footer">
+      <div className="container">Footer</div>
+    </div>
+  );
 }
 
 export default Footer;

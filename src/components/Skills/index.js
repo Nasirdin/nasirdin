@@ -1,7 +1,7 @@
 import "./index.scss";
 
 function Skills() {
-  return <div className="Skills">Skills</div>;
+  return <div className="skills"><div className="container">Skills</div></div>;
 }
 
 export default Skills;
