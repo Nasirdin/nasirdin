@@ -1,0 +1,21 @@
+.home {
+  display: flex;
+  height: calc(100vh - 70px);
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__content {
+    margin-top: -100px;
+  }
+  &__hi {
+    font-size: 18px;
+  }
+  &__title {
+    font-size: 54px;
+    span {
+      color: var(--color-active);
+    }
+  }
+}

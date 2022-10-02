@@ -2,28 +2,38 @@ import { Link } from "react-router-dom";
 import { FaTelegramPlane, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 import "./index.scss";
+import { useEffect } from "react";
 
 function Header() {
+  let headerPosition = "reletive";
+  window.addEventListener("wheel", (event) => {
+    if (event.wheelDelta > 0) {
+      headerPosition = "fixed";
+    } else {
+      headerPosition = "reletive";
+    }
+  });
+
   const pageLinks = [
     {
       to: "/",
-      title: "Home",
+      title: "Главная",
     },
     {
       to: "/about",
-      title: "About me",
+      title: "Обо мне",
     },
     {
       to: "/skills",
-      title: "Skills",
+      title: "Навыки",
     },
     {
       to: "/portfolio",
-      title: "Portfolio",
+      title: "Портфолио",
     },
     {
       to: "/contact",
-      title: "Contact",
+      title: "Контакты",
     },
   ];
 
@@ -45,10 +55,11 @@ function Header() {
     },
   ];
 
+
   return (
-    <div className="header">
+    <div className="header" style={{ position: `${headerPosition}` }}>
       <div className="container">
-        <Link className="header__logotype" to="/">
+        <Link className="header__logo" to="/">
           Nasirdin
         </Link>
         <ul className="header__items">

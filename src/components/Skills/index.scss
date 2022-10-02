@@ -1,0 +1,24 @@
+.skills{
+    padding: 100px 0;
+    .container{
+        text-align: center;
+    }
+    .line{
+        margin-bottom: 50px;
+    }
+    &__content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__items{
+        text-align: left;
+    }
+    &__item{
+        margin-bottom: 10px;
+    }
+    &__name{
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,37 @@
+.header {
+  width: 100%;
+  background-color: var(--bg-color);
+  padding: 20px 0;
+  box-shadow: 0 -10px 20px #000;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__logo {
+    color: var(--color-active);
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  &__items {
+    display: flex;
+    align-items: center;
+  }
+  &__link {
+    margin-left: 20px;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+  &__socialLinks {
+    display: flex;
+    align-items: center;
+  }
+  &__socialLink {
+    margin-left: 20px;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}

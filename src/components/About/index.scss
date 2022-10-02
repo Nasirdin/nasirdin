@@ -1,0 +1,31 @@
+.about {
+    padding: 100px 0;
+    background-color: var(--bg-color-two);
+  .container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  &__content {
+    max-width: 600px;
+    margin-left: 80px;
+  }
+  &__text{
+    margin-bottom: 30px;
+  }
+  &__items{
+    margin-bottom: 30px;
+  }
+  &__item{
+    margin-bottom: 5px;
+  }
+  &__link{
+    color: var(--color-link-two);
+  }
+  &__img {
+    max-width: 400px;
+    img {
+      width: 100%;
+    }
+  }
+}
