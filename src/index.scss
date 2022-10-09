@@ -78,7 +78,7 @@ a {
 }
 
 .title{
-  font-size: 34px;
+  font-size: 28px;
   font-weight: 700;
   color: var(--color-active);
   margin-bottom: 10px;
@@ -90,7 +90,7 @@ a {
   height: 2px;
   background-color: var(--color-active);
   position: relative;
-  margin: 30px auto;
+  margin: 30px auto 50px;
   &::before{
     position: absolute;
     content: "";

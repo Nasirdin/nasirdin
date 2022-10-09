@@ -1,14 +1,15 @@
 import { BrowserRouter } from "react-router-dom";
-import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import About from "./components/About";
 import Skills from "./components/Skills";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
 
 import Rodot from "./img/gif-mouse.gif";
 
 import "./index.scss";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Experience from "./components/Experience";
 
 function App() {
@@ -25,7 +26,9 @@ function App() {
   //     });
   //   }
   // };
-  
+
+
+
   return (
     <div className="App">
       <BrowserRouter>
@@ -46,7 +49,8 @@ function App() {
         <Home />
         <About />
         <Experience />
-        {/* <Skills /> */}
+        <Skills />
+        <Portfolio/>
         <Footer />
       </BrowserRouter>
     </div>

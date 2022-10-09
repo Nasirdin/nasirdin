@@ -1,0 +1,69 @@
+.portfolio {
+  padding: 100px 0;
+  .container {
+    text-align: center;
+  }
+  &__btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__item {
+    padding: 0 20px;
+  }
+  &__btn {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.4s all;
+    &:hover {
+      background-color: var(--color-active);
+      color: #fff;
+    }
+  }
+  &__btn.active {
+    background-color: var(--color-active);
+    color: #fff;
+  }
+  &__works {
+    max-width: 1000px;
+    margin: 50px auto 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+  &__work {
+    width: 300px;
+    height: 200px;
+    border: 1px solid var(--color-grey);
+    border-radius: 6px;
+    margin: 0 auto 30px;
+  }
+  .work {
+    overflow: hidden;
+    text-align: left;
+    transition: 0.3s all;
+    cursor: pointer;
+    &__img {
+      width: 100%;
+      height: 145px;
+      z-index: -1;
+      margin-bottom: 13px;
+    }
+    &__name {
+      margin-left: 10px;
+      transition: 0.3s all;
+    }
+    &:hover {
+      box-shadow: 0px 0px 21px -2px rgba(0, 0, 0, 0.75);
+      .work__name {
+        color: var(--color-active);
+      }
+    }
+  }
+}
