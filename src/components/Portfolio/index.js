@@ -52,14 +52,14 @@ function Portfolio() {
         <ul className="portfolio__works">
           {works.map((work) =>
             work.category.map((category) =>
-              category == workTab ? (
+              category === workTab ? (
                 <li className="portfolio__work work">
-                  <img className="work__img" src={work.img} />
+                  <img className="work__img" src={work.img} alt="work-img" />
                   <h4 className="work__name">{work.name}</h4>
                 </li>
               ) : workTab === "all" ? (
                 <li className="portfolio__work work">
-                  <img className="work__img" src={work.img} />
+                  <img className="work__img" src={work.img} alt="work-img" />
                   <h4 className="work__name">{work.name}</h4>
                 </li>
               ) : (

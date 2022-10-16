@@ -78,7 +78,7 @@ a {
 }
 
 .title{
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 700;
   color: var(--color-active);
   margin-bottom: 10px;
@@ -87,7 +87,7 @@ a {
 .line{
   display: block;
   width: 150px;
-  height: 2px;
+  height: 1px;
   background-color: var(--color-active);
   position: relative;
   margin: 30px auto 50px;
@@ -95,23 +95,23 @@ a {
     position: absolute;
     content: "";
     left: 0;
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     top: 50%;
-    transform: translate(140%, -50%);
-    border: 2px solid var(--color-active);
+    transform: translate(265%, -50%);
+    border: 1px solid var(--color-active);
   }
   &::after{
     position: absolute;
     content: "";
     right: 0;
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     top: 50%;
-    transform: translate(-140%, -50%);
-    border: 2px solid var(--color-active);
+    transform: translate(-256%, -50%);
+    border: 1px solid var(--color-active);
   }
 }
 
@@ -138,8 +138,8 @@ a {
 }
 
 .progress-bar{
-  width: 700px;
-  height: 7px;
+  width: 600px;
+  height: 5px;
   border-radius: 5px;
   border: 1px solid var(--color-grey);
   position: relative;

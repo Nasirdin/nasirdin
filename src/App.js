@@ -4,12 +4,13 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
+import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
 
-import Rodot from "./img/gif-mouse.gif";
+// import Rodot from "./img/gif-mouse.gif";
 
 import "./index.scss";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import Experience from "./components/Experience";
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
         <Experience />
         <Skills />
         <Portfolio/>
+        <Contacts/>
         <Footer />
       </BrowserRouter>
     </div>

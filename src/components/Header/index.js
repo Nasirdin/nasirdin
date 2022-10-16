@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
-import { FaTelegramPlane, FaInstagram, FaLinkedin } from "react-icons/fa";
-
+import { socialLinks } from "../../helpers/constans";
 import "./index.scss";
-import { useEffect } from "react";
 
 function Header() {
   let headerPosition = "reletive";
@@ -36,25 +34,6 @@ function Header() {
       title: "Контакты",
     },
   ];
-
-  const socialLinks = [
-    {
-      to: "https://t.me/Nasirdin1",
-      title: "Telegram: nasirdin.zhaparkulov@gmail.com",
-      icon: <FaTelegramPlane className="icon" size="26px" />,
-    },
-    {
-      to: "https://www.instagram.com/zhaparkulov_02/",
-      title: "Instagram: nasirdin.zhaparkulov@gmail.com",
-      icon: <FaInstagram className="icon" size="26px" />,
-    },
-    {
-      to: "https://www.linkedin.com/in/191202",
-      title: "Linkedin: nasirdin.zhaparkulov@gmail.com",
-      icon: <FaLinkedin className="icon" size="26px" />,
-    },
-  ];
-
 
   return (
     <div className="header" style={{ position: `${headerPosition}` }}>

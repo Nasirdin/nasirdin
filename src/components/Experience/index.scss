@@ -1,9 +1,9 @@
 .experience {
-  padding: 100px 0;
+  padding: 80px 0;
   .container {
     text-align: center;
   }
-  .line{
+  .line {
     margin-bottom: 50px;
   }
   &__content {
@@ -27,25 +27,25 @@
     margin-bottom: 30px;
     width: 300px;
   }
-  .work{
-    &__title{
-        font-size: 16px;
+  .work {
+    &__title {
+      font-size: 16px;
     }
-    &__company{
-        font-size: 12px;
-        margin-bottom: 10px;
+    &__company {
+      font-size: 12px;
+      margin-bottom: 10px;
     }
-    .description{
-        font-size: 14px;
-        &__title{
-            font-weight: 700;
-        }
-        &__text{
-            margin-bottom: 5px;
-        }
+    .description {
+      font-size: 14px;
+      &__title {
+        font-weight: 700;
+      }
+      &__text {
+        margin-bottom: 5px;
+      }
     }
-    &:last-child{
-        margin-bottom: 0;
+    &:last-child {
+      margin-bottom: 0;
     }
   }
   &__line {
@@ -57,7 +57,7 @@
     flex-direction: column;
     justify-content: center;
   }
-  &__dot{
+  &__dot {
     width: 15px;
     height: 15px;
     border: 3px solid var(--color-active);

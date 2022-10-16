@@ -10,7 +10,7 @@ import ethCCIMG from "../img/portfolio/ethparis.jpg";
 import ETHBCNIMG from "../img/portfolio/ETHBCN.jpg";
 import devconIMG from "../img/portfolio/devcon.png";
 import swapIMG from "../img/portfolio/swap.jpg";
-
+import { FaTelegramPlane, FaInstagram, FaLinkedin, FaVoicemail } from "react-icons/fa";
 
 export const works = [
   {
@@ -157,5 +157,42 @@ export const works = [
     company: "Swap.Online",
     category: ["front"],
   },
-  
 ];
+
+export const socialLinks = [
+  {
+    to: "https://t.me/Nasirdin1",
+    title: "Telegram: @Nasirdin1",
+    icon: <FaTelegramPlane className="icon" size="26px" />,
+  },
+  {
+    to: "https://www.instagram.com/zhaparkulov_02/",
+    title: "Instagram: zhaparkulov_02",
+    icon: <FaInstagram className="icon" size="26px" />,
+  },
+  {
+    to: "https://www.linkedin.com/in/191202",
+    title: "Linkedin: Nasirdin Zhaparkulov",
+    icon: <FaLinkedin className="icon" size="26px" />,
+  },
+];
+
+export const contacts = [
+  {
+    to: "https://t.me/Nasirdin1",
+    title: "Telegram: nasirdin.zhaparkulov@gmail.com",
+    icon: <FaTelegramPlane className="icon" size="26px" />,
+  },
+  {
+    to: "",
+    title: "",
+    icon: <FaVoicemail className="icon" size="26"/>,
+    discription: "",
+  },
+  {
+    to: "https://www.linkedin.com/in/191202",
+    title: "Linkedin: nasirdin.zhaparkulov@gmail.com",
+    icon: <FaLinkedin className="icon" size="26px" />,
+  },
+
+]
