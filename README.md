@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+[![Header](https://github.com/Nasirdin/nasirdin/blob/main/src/coverjpg.jpg)](https://github.com/Nasirdin)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hi 👋
+## My name is Nasirdin 
+## I'm a junior Front-End developer 👨‍💻
 
-## Available Scripts
 
-In the project directory, you can run:
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![jQuery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
+![NodeJs](https://img.shields.io/badge/-node.Js-090909?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-express.js-090909?style=for-the-badge&logo=express)
 
-### `npm start`
+![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css)
+![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
+![LESS](https://img.shields.io/badge/-less-090909?style=for-the-badge&logo=less)
+![BOOTSTRAP](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![mySQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
+![Mongo](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongodb)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![JSON](https://img.shields.io/badge/-json-090909?style=for-the-badge&logo=json)
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
+![PhotoShop](https://img.shields.io/badge/-photoshop-090909?style=for-the-badge&logo=adobephotoshop)
 
-### `npm test`
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Follow me
+[![github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/Nasirdin)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/zhaparkulov_02/?hl=ru)
+[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0b65c3)](https://www.linkedin.com/in/191202/)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Nasirdin1)
+[![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/id611818609)
+[![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/jnasirdin)
