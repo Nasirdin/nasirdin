@@ -2,7 +2,7 @@
 
 ## Hi 👋
 ## My name is Nasirdin 
-## I'm a junior Front-End developer 👨‍💻
+## I'm a Front-End developer 👨‍💻
 
 
 ### Languages and Tools
