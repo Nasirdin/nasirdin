@@ -1,4 +1,4 @@
-[![Header](https://github.com/Nasirdin/nasirdin/blob/main/src/coverjpg.jpg)](https://github.com/Nasirdin)
+[![Header]()](https://github.com/Nasirdin)
 
 ## Hi 👋
 ## My name is Nasirdin 
