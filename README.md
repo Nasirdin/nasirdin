@@ -1,5 +1,3 @@
-[![Header]()](https://github.com/Nasirdin)
-
 ## Hi 👋
 ## My name is Nasirdin 
 ## I'm a Front-End developer 👨‍💻
