@@ -37,10 +37,7 @@ Together, we’ll explore the uncharted territories of the web, crafting interac
 ---
 
 ## 🧭 Find Me Here  
-[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/Nasirdin)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/191202/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/NUR_NZaparkulov)  
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/nasirdin_zhaparkulov/?hl=ru)  
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/Nasirdin)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/191202/)  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/NUR_NZaparkulov)  [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/nasirdin_zhaparkulov/?hl=ru)  
 
 ---
 
